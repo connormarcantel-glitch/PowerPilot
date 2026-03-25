@@ -31,18 +31,6 @@ DETECTED APPLICATIONS
   Rendering: Blender, Cinema 4D, 3ds Max, Maya, Houdini, KeyShot
   VR:        SteamVR, Oculus/Meta Quest Link
 
-HOW TO BUILD
-------------
-  1. Install Python 3.10+ from https://www.python.org/downloads/
-     IMPORTANT: Check "Add Python to PATH" during installation
-
-  2. Double-click build.bat
-     (It installs dependencies and packages the .exe automatically)
-
-  3. Find PowerPilot.exe in the "dist" folder
-
-  4. You can uninstall Python afterward if you don't need it
-
 HOW TO USE
 ----------
   - Right-click PowerPilot.exe -> Run as administrator
